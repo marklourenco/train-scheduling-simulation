@@ -1,7 +1,3 @@
-Here’s a description you can use for your GitHub repository:
-
----
-
 ### Train Scheduling Simulation: Platform Usage Analysis
 
 This C++ program simulates a train station's scheduling system to calculate the number of platforms needed to accommodate all trains throughout the day. It works by generating random arrival times and durations for each train and then calculating the maximum number of platforms in use at any given time.
@@ -52,7 +48,3 @@ Program took: 0 seconds.
 1. Clone the repository to your local machine.
 2. Compile the code using any C++ compiler (e.g., `g++` or Visual Studio).
 3. Run the executable to simulate the scheduling and platform usage.
-
----
-
-This description should provide a good overview of the code's functionality, and it also includes enough detail for others to understand how to use it and what to expect from the program. Let me know if you'd like to add anything else!
